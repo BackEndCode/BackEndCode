@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BackEndCode
 - 👀 I’m interested in developing android application and doing it with full clean code principles
-- 🌱 I’m currently learning Dagger2
+- 🌱 I’m currently learning Kotlin flows, Android Compose
 - 💞️ I’m looking to collaborate on web apis projects
 - 📫 How to reach me ... rescue.nomi@gmail.com
 
